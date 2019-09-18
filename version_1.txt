@@ -1,4 +1,8 @@
 Hello everyone
 I am version 1.
 aaa
+<<<<<<< HEAD
 bbb
+=======
+bbb
+>>>>>>> 284f9fa16ae85202c506089f2b05cb8520ab7809
